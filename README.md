@@ -1,2 +1,0 @@
-# brhaupt.github.io
----
