@@ -1,4 +1,4 @@
 # brhaupt.github.io
 ---
-permalink: /src/index.html
+permalink: /dist/index.html
 ---
